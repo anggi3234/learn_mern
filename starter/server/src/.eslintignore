@@ -1,0 +1,6 @@
+# Dont ever lint node_modules
+node_modules
+# Dont lint build output
+dist
+# dont lint nyc coverage output
+coverage
